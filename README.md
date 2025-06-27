@@ -4,6 +4,13 @@ A user-friendly web interface for Pix2Pix image-to-image translation powered by 
 
 ![Pix2Pix Demo](https://img.shields.io/badge/Demo-Live-brightgreen) ![Python](https://img.shields.io/badge/Python-3.7+-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-1.8+-red) ![Gradio](https://img.shields.io/badge/Gradio-Latest-orange)
 
+
+<div align="center">
+  <img src="pix2pix.gif" alt="Pix2Pix Demo" width="600"/>
+  <p><em>Watch the magic happen! ✨</em></p>
+</div>
+"""
+
 ## 🌟 Features
 
 - **🖼️ Interactive Web Interface** - Drag & drop image uploads with real-time preview
